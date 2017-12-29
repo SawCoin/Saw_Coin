@@ -1,2 +1,2 @@
 # Saw_Coin
-#Swedish Afterwork Beer
+#Swedish Afterwork Coin
